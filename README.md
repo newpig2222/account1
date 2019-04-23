@@ -6,5 +6,9 @@
 
 ![账面余额与账面价值](https://github.com/newpig2222/photo/raw/master/zczmjz.png)
 
+* **负债确定条件的现时义务理解：**
 
+  ![现时义务](https://github.com/newpig2222/photo/raw/master/xsyw.png)
+
+  
 
